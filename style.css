@@ -21,6 +21,7 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    background: linear-gradient(90deg, #fffcff, #0b5b29);
 }
 
 .chamada-texto {
